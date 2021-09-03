@@ -1,3 +1,6 @@
+# Martin Hanekom
+# BTC Trade Bot
+
 import os, asyncio, sys
 from re import M
 from binance import AsyncClient, BinanceSocketManager
